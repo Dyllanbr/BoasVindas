@@ -1,0 +1,15 @@
+C:\Mastering C#\Logica\Modulo_1\bin\Debug\net7.0\Modulo_1.exe
+C:\Mastering C#\Logica\Modulo_1\bin\Debug\net7.0\Modulo_1.deps.json
+C:\Mastering C#\Logica\Modulo_1\bin\Debug\net7.0\Modulo_1.runtimeconfig.json
+C:\Mastering C#\Logica\Modulo_1\bin\Debug\net7.0\Modulo_1.dll
+C:\Mastering C#\Logica\Modulo_1\bin\Debug\net7.0\Modulo_1.pdb
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.csproj.AssemblyReference.cache
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.AssemblyInfoInputs.cache
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.AssemblyInfo.cs
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.csproj.CoreCompileInputs.cache
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.dll
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\refint\Modulo_1.dll
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.pdb
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\Modulo_1.genruntimeconfig.cache
+C:\Mastering C#\Logica\Modulo_1\obj\Debug\net7.0\ref\Modulo_1.dll
